@@ -1,0 +1,9 @@
+{
+  "id": "69c30121-985b-46c2-a6a1-1e606fcf0fbc",
+  "name": "Period",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

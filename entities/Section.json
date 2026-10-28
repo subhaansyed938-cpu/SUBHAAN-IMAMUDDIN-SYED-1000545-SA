@@ -1,0 +1,9 @@
+{
+  "id": "7e162d36-4102-4790-b524-171a8e8d8314",
+  "name": "Section",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

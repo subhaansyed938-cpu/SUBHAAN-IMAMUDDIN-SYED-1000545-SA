@@ -1,0 +1,9 @@
+{
+  "id": "f3945eae-3b5e-4336-8020-2956d1bb9c71",
+  "name": "Contact_role",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

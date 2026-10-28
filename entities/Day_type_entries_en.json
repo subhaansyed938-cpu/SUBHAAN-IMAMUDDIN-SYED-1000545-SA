@@ -1,0 +1,68 @@
+[
+  {
+    "value": "regular day",
+    "synonyms": [
+      "regular day",
+      "normal day",
+      "usual school day"
+    ]
+  },
+  {
+    "value": "Saturday",
+    "synonyms": [
+      "Saturday",
+      "weekend saturday"
+    ]
+  },
+  {
+    "value": "Sunday",
+    "synonyms": [
+      "Sunday"
+    ]
+  },
+  {
+    "value": "Holiday",
+    "synonyms": [
+      "Holiday",
+      "school holiday",
+      "public holiday"
+    ]
+  },
+  {
+    "value": "exam day",
+    "synonyms": [
+      "exam day",
+      "examination day",
+      "test day"
+    ]
+  },
+  {
+    "value": "special schedule",
+    "synonyms": [
+      "special schedule",
+      "changed timing",
+      "revised timetable"
+    ]
+  },
+  {
+    "value": "early dismissal",
+    "synonyms": [
+      "early dispersal",
+      "half day"
+    ]
+  },
+  {
+    "value": "morning session",
+    "synonyms": [
+      "morning session",
+      "morning shift"
+    ]
+  },
+  {
+    "value": "afternoon session",
+    "synonyms": [
+      "afternoon session",
+      "afternoon shift."
+    ]
+  }
+]

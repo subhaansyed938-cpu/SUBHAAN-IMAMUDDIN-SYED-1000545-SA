@@ -1,0 +1,9 @@
+{
+  "id": "b7fc04f3-70ae-4238-b294-2f23c4587886",
+  "name": "Exam_type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

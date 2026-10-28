@@ -1,0 +1,9 @@
+{
+  "id": "8d4c6546-c6d7-4725-888d-233186e871bf",
+  "name": "Fee_type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

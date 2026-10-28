@@ -1,0 +1,101 @@
+[
+  {
+    "value": "Mathematics",
+    "synonyms": [
+      "Mathematics",
+      "maths",
+      "math"
+    ]
+  },
+  {
+    "value": "Science",
+    "synonyms": [
+      "Science"
+    ]
+  },
+  {
+    "value": "English",
+    "synonyms": [
+      "English",
+      "English language",
+      "Eng"
+    ]
+  },
+  {
+    "value": "Hindi",
+    "synonyms": [
+      "Hindi"
+    ]
+  },
+  {
+    "value": "French",
+    "synonyms": [
+      "French"
+    ]
+  },
+  {
+    "value": "Social studies",
+    "synonyms": [
+      "Social studies",
+      "SST",
+      "social science"
+    ]
+  },
+  {
+    "value": "Computer science",
+    "synonyms": [
+      "Computer science",
+      "computers",
+      "computer studies",
+      "ICT"
+    ]
+  },
+  {
+    "value": "Physics",
+    "synonyms": [
+      "Physics",
+      "Phy"
+    ]
+  },
+  {
+    "value": "Chemistry",
+    "synonyms": [
+      "Chemistry",
+      "Chem"
+    ]
+  },
+  {
+    "value": "Biology",
+    "synonyms": [
+      "Biology",
+      "Bio"
+    ]
+  },
+  {
+    "value": "Geography",
+    "synonyms": [
+      "Geography",
+      "Geo"
+    ]
+  },
+  {
+    "value": "History",
+    "synonyms": [
+      "History"
+    ]
+  },
+  {
+    "value": "Art",
+    "synonyms": [
+      "Art"
+    ]
+  },
+  {
+    "value": "Physical education",
+    "synonyms": [
+      "Physical education",
+      "PE",
+      "Sports"
+    ]
+  }
+]

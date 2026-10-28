@@ -1,0 +1,9 @@
+{
+  "id": "5d850cd1-5032-4f64-b0df-068b03fa73d8",
+  "name": "Absence_reason",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

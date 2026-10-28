@@ -1,0 +1,80 @@
+[
+  {
+    "value": "holiday",
+    "synonyms": [
+      "holiday",
+      "school holiday",
+      "vacation notice"
+    ]
+  },
+  {
+    "value": "event",
+    "synonyms": [
+      "event",
+      "school event",
+      "function"
+    ]
+  },
+  {
+    "value": "exam",
+    "synonyms": [
+      "exam",
+      "examination notice",
+      "exam update"
+    ]
+  },
+  {
+    "value": "shedule change",
+    "synonyms": [
+      "shedule change",
+      "timing change",
+      "revised timetable"
+    ]
+  },
+  {
+    "value": "class suspension",
+    "synonyms": [
+      "class suspension",
+      "class cancelled",
+      "classes canceled"
+    ]
+  },
+  {
+    "value": "circular",
+    "synonyms": [
+      "school circular",
+      "notice"
+    ]
+  },
+  {
+    "value": "sports",
+    "synonyms": [
+      "sports",
+      "sports event",
+      "tournament"
+    ]
+  },
+  {
+    "value": "meeting",
+    "synonyms": [
+      "meeting",
+      "Parent meeting",
+      "PTA meeting"
+    ]
+  },
+  {
+    "value": "admission",
+    "synonyms": [
+      "admission",
+      "admission notice",
+      "enrollment notice"
+    ]
+  },
+  {
+    "value": "General notice",
+    "synonyms": [
+      "General notice",
+      "school updates"
+    ]
+  }
+]

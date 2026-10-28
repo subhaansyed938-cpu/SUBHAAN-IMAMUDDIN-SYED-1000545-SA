@@ -1,0 +1,54 @@
+[
+  {
+    "value": "unit test",
+    "synonyms": [
+      "unit test",
+      "class test"
+    ]
+  },
+  {
+    "value": "mid term",
+    "synonyms": [
+      "mid term",
+      "half yearly",
+      "half yearly exam"
+    ]
+  },
+  {
+    "value": "final exams",
+    "synonyms": [
+      "final exams",
+      "annual exam",
+      "yearly exam"
+    ]
+  },
+  {
+    "value": "semester exams",
+    "synonyms": [
+      "semester exams",
+      "term exam"
+    ]
+  },
+  {
+    "value": "practical exam",
+    "synonyms": [
+      "practical exam",
+      "lab exam"
+    ]
+  },
+  {
+    "value": "mock exam",
+    "synonyms": [
+      "mock exam",
+      "mock test",
+      "practice test"
+    ]
+  },
+  {
+    "value": "enterance exam",
+    "synonyms": [
+      "enterance exam",
+      "enterance test."
+    ]
+  }
+]

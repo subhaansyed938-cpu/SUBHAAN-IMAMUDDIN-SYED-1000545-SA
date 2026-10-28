@@ -1,0 +1,9 @@
+{
+  "id": "c3936545-639d-41c6-81bc-879b9318d7ee",
+  "name": "Grades",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

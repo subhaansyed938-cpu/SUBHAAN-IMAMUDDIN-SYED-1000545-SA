@@ -1,0 +1,55 @@
+[
+  {
+    "value": "online portal",
+    "synonyms": [
+      "online portal",
+      "school portal",
+      "online payment"
+    ]
+  },
+  {
+    "value": "bank transfer",
+    "synonyms": [
+      "bank transfer",
+      "Bank payment",
+      "NEFT"
+    ]
+  },
+  {
+    "value": "card",
+    "synonyms": [
+      "credit card",
+      "debit card"
+    ]
+  },
+  {
+    "value": "UPI",
+    "synonyms": [
+      "UPI",
+      "UPI payment",
+      "UPI app"
+    ]
+  },
+  {
+    "value": "cash",
+    "synonyms": [
+      "cash",
+      "cash payment"
+    ]
+  },
+  {
+    "value": "cheque",
+    "synonyms": [
+      "cheque",
+      "cheque payment"
+    ]
+  },
+  {
+    "value": "demand draft",
+    "synonyms": [
+      "demand draft",
+      "DD",
+      "bank draft."
+    ]
+  }
+]

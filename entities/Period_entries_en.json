@@ -1,0 +1,94 @@
+[
+  {
+    "value": "Today",
+    "synonyms": [
+      "Today",
+      "this day",
+      "for today"
+    ]
+  },
+  {
+    "value": "tommorow",
+    "synonyms": [
+      "tommorow",
+      "next day",
+      "the following day"
+    ]
+  },
+  {
+    "value": "yesterday",
+    "synonyms": [
+      "yesterday",
+      "pervious day",
+      "the day before"
+    ]
+  },
+  {
+    "value": "this week",
+    "synonyms": [
+      "this week",
+      "current week"
+    ]
+  },
+  {
+    "value": "next week",
+    "synonyms": [
+      "next week",
+      "following week"
+    ]
+  },
+  {
+    "value": "this month",
+    "synonyms": [
+      "this month",
+      "current month"
+    ]
+  },
+  {
+    "value": "next month",
+    "synonyms": [
+      "next month",
+      "the following month"
+    ]
+  },
+  {
+    "value": "morning",
+    "synonyms": [
+      "morning",
+      "before noon",
+      "morning session"
+    ]
+  },
+  {
+    "value": "afternoon",
+    "synonyms": [
+      "afternoon",
+      "post noon",
+      "afternoon session"
+    ]
+  },
+  {
+    "value": "term 1",
+    "synonyms": [
+      "term 1",
+      "first term",
+      "term one"
+    ]
+  },
+  {
+    "value": "term 2",
+    "synonyms": [
+      "term 2",
+      "second term",
+      "term two"
+    ]
+  },
+  {
+    "value": "term 3",
+    "synonyms": [
+      "term 3",
+      "third term",
+      "term three"
+    ]
+  }
+]

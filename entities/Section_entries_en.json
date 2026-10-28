@@ -1,0 +1,34 @@
+[
+  {
+    "value": "Section A",
+    "synonyms": [
+      "Section A",
+      "sec A",
+      "division A"
+    ]
+  },
+  {
+    "value": "Section B",
+    "synonyms": [
+      "Section B",
+      "sec B",
+      "division B"
+    ]
+  },
+  {
+    "value": "Section C",
+    "synonyms": [
+      "Section C",
+      "sec C",
+      "division C"
+    ]
+  },
+  {
+    "value": "Section D",
+    "synonyms": [
+      "Section D",
+      "sec D",
+      "division D"
+    ]
+  }
+]

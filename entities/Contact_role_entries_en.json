@@ -1,0 +1,81 @@
+[
+  {
+    "value": "class teacher",
+    "synonyms": [
+      "class teacher",
+      "form teacher",
+      "homeroom teacher"
+    ]
+  },
+  {
+    "value": "subject teacher",
+    "synonyms": [
+      "subject teacher",
+      "teacher for a subject"
+    ]
+  },
+  {
+    "value": "principal",
+    "synonyms": [
+      "principal",
+      "head teacher",
+      "headteacher"
+    ]
+  },
+  {
+    "value": "school office",
+    "synonyms": [
+      "school office",
+      "administration office",
+      "reception"
+    ]
+  },
+  {
+    "value": "account department",
+    "synonyms": [
+      "account department",
+      "account office",
+      "fee department"
+    ]
+  },
+  {
+    "value": "coordinators",
+    "synonyms": [
+      "coordinators",
+      "academic coordinators",
+      "year coordinator"
+    ]
+  },
+  {
+    "value": "counsellor",
+    "synonyms": [
+      "counsellor",
+      "counselor",
+      "school counsellor"
+    ]
+  },
+  {
+    "value": "IT support",
+    "synonyms": [
+      "IT support",
+      "technical support",
+      "computer support"
+    ]
+  },
+  {
+    "value": "transport office",
+    "synonyms": [
+      "transport office",
+      "bus office",
+      "transport department"
+    ]
+  },
+  {
+    "value": "exam coordinator",
+    "synonyms": [
+      "exam coordinator",
+      "examination department",
+      "exam office"
+    ]
+  }
+]

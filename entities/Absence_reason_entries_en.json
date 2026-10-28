@@ -1,0 +1,52 @@
+[
+  {
+    "value": "illness",
+    "synonyms": [
+      "illness",
+      "sick",
+      "unwell",
+      "medical reason"
+    ]
+  },
+  {
+    "value": "medical appointment",
+    "synonyms": [
+      "medical appointment",
+      "doctor appointment",
+      "hospital appointment"
+    ]
+  },
+  {
+    "value": "family matter",
+    "synonyms": [
+      "family matter",
+      "family reason",
+      "personally family matter"
+    ]
+  },
+  {
+    "value": "travel",
+    "synonyms": [
+      "travel",
+      "out of town",
+      "travelling",
+      "traveling"
+    ]
+  },
+  {
+    "value": "emergency",
+    "synonyms": [
+      "emergency",
+      "urgent emergency",
+      "family emergency"
+    ]
+  },
+  {
+    "value": "other",
+    "synonyms": [
+      "other",
+      "another reason",
+      "other reason"
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "value": "tution fee",
+    "synonyms": [
+      "tution fee",
+      "tution fees",
+      "academic fee"
+    ]
+  },
+  {
+    "value": "transport fee",
+    "synonyms": [
+      "transport fee",
+      "bus fee",
+      "school fee"
+    ]
+  },
+  {
+    "value": "activity fee",
+    "synonyms": [
+      "activity fee",
+      "extraciricular activities"
+    ]
+  },
+  {
+    "value": "examination fee",
+    "synonyms": [
+      "examination fee",
+      "exam fee",
+      "examination charges"
+    ]
+  },
+  {
+    "value": "annual fee",
+    "synonyms": [
+      "annual fee",
+      "yearly fee",
+      "annual charge"
+    ]
+  },
+  {
+    "value": "admission fee",
+    "synonyms": [
+      "admission fee",
+      "enrollment fee",
+      "registration fee"
+    ]
+  },
+  {
+    "value": "library fee",
+    "synonyms": [
+      "library fee",
+      "library charges"
+    ]
+  },
+  {
+    "value": "Laboratory charges",
+    "synonyms": [
+      "Laboratory charges",
+      "Lab fee",
+      "Lab charges"
+    ]
+  },
+  {
+    "value": "Late fee",
+    "synonyms": [
+      "Late fee",
+      "Late payment charges",
+      "penalty"
+    ]
+  },
+  {
+    "value": "uniform fee",
+    "synonyms": [
+      "uniform fee",
+      "uniform charges"
+    ]
+  }
+]

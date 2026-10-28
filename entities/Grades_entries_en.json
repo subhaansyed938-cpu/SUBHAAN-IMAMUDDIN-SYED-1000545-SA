@@ -1,0 +1,102 @@
+[
+  {
+    "value": "Grade 1",
+    "synonyms": [
+      "Grade 1",
+      "grade one",
+      "class 1",
+      "standard 1",
+      "first class"
+    ]
+  },
+  {
+    "value": "Grade 2",
+    "synonyms": [
+      "grade 2",
+      "grade two",
+      "class 2",
+      "standard 2",
+      "second class"
+    ]
+  },
+  {
+    "value": "Grade 3",
+    "synonyms": [
+      "Grade 3",
+      "grade 3",
+      "class 3",
+      "standard 3",
+      "third class"
+    ]
+  },
+  {
+    "value": "Grade 4",
+    "synonyms": [
+      "Grade 4",
+      "grade four",
+      "class 4",
+      "standard 4",
+      "fourth class"
+    ]
+  },
+  {
+    "value": "Grade 5",
+    "synonyms": [
+      "Grade 5",
+      "class 5",
+      "standard 5",
+      "fifth class",
+      "grade five"
+    ]
+  },
+  {
+    "value": "Grade 6",
+    "synonyms": [
+      "Grade 6",
+      "grade six",
+      "class 6",
+      "standard 6",
+      "sixth class"
+    ]
+  },
+  {
+    "value": "Grade 7",
+    "synonyms": [
+      "Grade 7",
+      "grade seven",
+      "class 7",
+      "standard 7",
+      "seventh class"
+    ]
+  },
+  {
+    "value": "Grade 8",
+    "synonyms": [
+      "Grade 8",
+      "grade eight",
+      "class 8",
+      "standard 8",
+      "eighth class"
+    ]
+  },
+  {
+    "value": "Grade 9",
+    "synonyms": [
+      "Grade 9",
+      "grade nine",
+      "class 9",
+      "standard 9",
+      "ninth class"
+    ]
+  },
+  {
+    "value": "Grade 10",
+    "synonyms": [
+      "Grade 10",
+      "grade ten",
+      "class 10",
+      "standard 10",
+      "tenth class."
+    ]
+  }
+]
