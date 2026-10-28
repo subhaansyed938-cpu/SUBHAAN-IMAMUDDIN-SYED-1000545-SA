@@ -1,0 +1,38 @@
+{
+  "id": "4a163c46-cbcb-4293-8672-4fcff9eede05",
+  "name": "School Announcement",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Academic Update\n\nPlease refer to the examination timetable for the upcoming assessment schedule.",
+            "Parent-Teacher Meeting\n\nSample date: 14 November 2026\n\nParents are invited to meet teachers to discuss student progress.",
+            "Music culmination event\n\nDate: 18th November 2026\n\nParents are invited for looking at a jamming session for their wards and their ward\u0027s facilitator.",
+            "ANA Annual Cultural event\n\nDate 24th December 2026\n\nParents are invited for ANA Annual Cultural event 2026."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "8f09349e-1099-4ec5-abad-b42348229f64",
+  "name": "Leave Application",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can submit a leave request through the school\u0027s approved portal or send it to the class teacher according to school policy. Include the dates and a brief reason. This chatbot does not submit the application unless connected to an approved submission system."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

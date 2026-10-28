@@ -1,0 +1,158 @@
+[
+  {
+    "id": "53642320-87fc-4461-bbd1-06d656ddafde",
+    "data": [
+      {
+        "text": "I need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9c5b198-b645-4c6a-8856-fad9bac7960d",
+    "data": [
+      {
+        "text": "Can you help me with something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b629f9ed-eb6b-478b-bf58-25666761cff8",
+    "data": [
+      {
+        "text": "I have a general question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9774051-7eb9-4287-9824-07e4846da926",
+    "data": [
+      {
+        "text": "What can you do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2bb35ca3-7beb-40c9-aab5-9235310ae92f",
+    "data": [
+      {
+        "text": "How does this chatbot work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c7f8392-3410-4cd1-80d9-d0edeac44594",
+    "data": [
+      {
+        "text": "I don\u0027t know where to start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46250a57-ef07-4709-8ada-7f676f46b95d",
+    "data": [
+      {
+        "text": "Help me find school information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "664b37cb-4771-4b1c-8f20-b12c28766ce4",
+    "data": [
+      {
+        "text": "I have a question for the school",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52dcfbae-9384-4270-9320-9983f90cc0a0",
+    "data": [
+      {
+        "text": "Can you guide me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac6a0071-af39-4bfe-9c33-2e341d0475ee",
+    "data": [
+      {
+        "text": "I need assistance with a school matter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a451d68d-1839-4759-86e6-0064fcd1bb8e",
+    "data": [
+      {
+        "text": "What information can I get here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cbe6694-7596-4617-8fcf-06646fd48dfc",
+    "data": [
+      {
+        "text": "Please guide me to the right place",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

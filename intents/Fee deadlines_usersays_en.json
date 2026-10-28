@@ -1,0 +1,93 @@
+[
+  {
+    "id": "be69781f-798b-4b57-95c2-a2b24e4c15b9",
+    "data": [
+      {
+        "text": "What happens if fees are paid late",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "731761c4-4d62-499f-87a1-9104730afe46",
+    "data": [
+      {
+        "text": "Where can I check the fee due date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f155fe2-5f15-4906-8eba-172ac9b87045",
+    "data": [
+      {
+        "text": "When is the next fee instalment due",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf752f45-30fe-4469-aeb2-a6cc05136b71",
+    "data": [
+      {
+        "text": "I need the fee deadline",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "509cc69a-f2c2-4520-9f12-52663fdbbea8",
+    "data": [
+      {
+        "text": "Is there a late fee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ac4f118-f11e-4b11-9ff6-31965f5eb05c",
+    "data": [
+      {
+        "text": "When is the last date for this term\u0027s fees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fcaf984-1eb1-444a-a90d-cf5bb0325fbb",
+    "data": [
+      {
+        "text": "How do I confirm the payment due date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

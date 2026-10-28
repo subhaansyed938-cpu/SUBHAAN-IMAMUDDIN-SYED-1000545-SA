@@ -1,0 +1,35 @@
+{
+  "id": "f518d5d7-cc17-4c4f-afb6-8f3e7a002cd2",
+  "name": "Homework",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Please check the school\u0027s homework diary, learning platform, or the class teacher\u0027s latest message. If you share the grade and subject, I can help direct you to the relevant information. Only provide actual homework details if they have been verified."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

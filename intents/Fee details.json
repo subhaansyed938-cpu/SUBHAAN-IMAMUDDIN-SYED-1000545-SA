@@ -1,0 +1,35 @@
+{
+  "id": "6b91898b-370f-4ce7-a127-e419858a8660",
+  "name": "Fee details",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Welcome to Parent Connect AI Fee Support!\n\nHere is the fee information available:\n- Tuition fee: ₹25,000 per term\n- Transport fee: ₹5,000 per term\n- Extra curricular activities: ₹8,000\n+ other charges\n- Payment deadline: first of every month.                                     \n\nNOTE: Please check the announcement on daily bases to know the updates or changes in fees."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

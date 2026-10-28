@@ -1,0 +1,132 @@
+[
+  {
+    "id": "248e3fb2-ee7e-4482-855e-b23705ee05bc",
+    "data": [
+      {
+        "text": "I want to view the attendance record.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cc46085-a95b-43cd-878f-1347ade401e5",
+    "data": [
+      {
+        "text": "What is the overall attendance percentage?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cc63153-5534-4f79-8399-ca4b3e3e7782",
+    "data": [
+      {
+        "text": "How many days were students absent this term?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75b4fba7-65ff-49a0-8e3a-2a06821dfb0f",
+    "data": [
+      {
+        "text": "Can you give me the attendance summary?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb653ec6-1baa-4af2-951a-c6ca086a8198",
+    "data": [
+      {
+        "text": "What is the attendance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d83f45c0-5113-46c3-ad08-3e43b5e331d6",
+    "data": [
+      {
+        "text": "Show attendance details.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f55f0470-1a61-4c28-8efc-b6bb37171e8b",
+    "data": [
+      {
+        "text": "Check attendance.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "843ff611-0387-43a2-8096-87f1909564f7",
+    "data": [
+      {
+        "text": "How is the attendance this term?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "550cdfc1-d50f-4a68-aeb3-00d461362814",
+    "data": [
+      {
+        "text": "Tell me about student attendance.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "738cacaa-cfc9-4325-a9f0-670400d12c68",
+    "data": [
+      {
+        "text": "Show the attendance report.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

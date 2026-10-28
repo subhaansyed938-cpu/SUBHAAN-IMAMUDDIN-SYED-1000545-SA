@@ -1,0 +1,145 @@
+[
+  {
+    "id": "eb1c4717-1685-4e1e-a824-7f4947aad1a3",
+    "data": [
+      {
+        "text": "I need information about my child\u0027s class",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0bbc799e-0dc8-4af8-88e2-f0468c26b970",
+    "data": [
+      {
+        "text": "My child is in Grade 7",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "967f85bb-7fa7-4c54-bdea-8020601cf197",
+    "data": [
+      {
+        "text": "Information for Grade 8 Section A",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8e72d85-418d-44d0-8247-6620eb7a9988",
+    "data": [
+      {
+        "text": "Which class information can you provide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a3e83fa-976d-4043-bcf0-82835cb5a6bd",
+    "data": [
+      {
+        "text": "I want school information for my child",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64182d10-afdc-4fe0-9ba8-cc8e28adff24",
+    "data": [
+      {
+        "text": "Show information for Grade 5",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a211dec-5589-424d-b761-27ce225ec529",
+    "data": [
+      {
+        "text": "My child studies in Section B",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8ace6d6-3619-43c8-80cb-6e0e1b4d71d6",
+    "data": [
+      {
+        "text": "Help me with my child\u0027s grade details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a026b1a0-c51f-4c56-8c33-58f2fba9eeda",
+    "data": [
+      {
+        "text": "I need details about Grade 9 Section C",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b694962-3557-4f1e-b218-45a0377a7f05",
+    "data": [
+      {
+        "text": "I want information for my child\u0027s section",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95f72e4f-e009-4560-a83a-632806af7072",
+    "data": [
+      {
+        "text": "Class details please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

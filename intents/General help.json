@@ -1,0 +1,35 @@
+{
+  "id": "12fd5c4e-85c3-4bb5-ab75-5ed1704db775",
+  "name": "General help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello! Welcome to ParentConnect AI. I can help you with common school queries.\n\nSchool timings:\n\nschool hours: Monday–Friday, 8:00 AM–2:30 PM.\n\n\nLeave and absence\n\nPlease notify the school office or use the school\u0027s approved absence-reporting procedure.\n\n\nContact the school\n\nFor individual student concerns, contact the appropriate school office using its official contact details."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

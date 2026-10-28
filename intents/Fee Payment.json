@@ -1,0 +1,35 @@
+{
+  "id": "3d408d99-531a-4e5f-9882-0214744675ad",
+  "name": "Fee Payment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The methods of payment:                                                                               • UPI\n• Debit \u0026 Credit Cards\n• Net Banking\n• Cheques                                                                                                                Note:                                                                                                               Use only the official payment portal or payment instructions provided by the school. Never share card details, passwords, or one-time passwords in this chatbot. Contact the school accounts office if you need payment assistance."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

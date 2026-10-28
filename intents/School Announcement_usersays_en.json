@@ -1,0 +1,67 @@
+[
+  {
+    "id": "8893be1b-5ddf-483b-b52d-a0d3f4f3fbba",
+    "data": [
+      {
+        "text": "Upcoming school activities?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8533ae2-eb77-4124-b075-dfd28b307df8",
+    "data": [
+      {
+        "text": "Upcoming school events?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "527e5dd7-518e-4c8d-916a-c1e9481a0276",
+    "data": [
+      {
+        "text": "What is the next event?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be91c6d4-82f0-43d3-99d1-a8217b34c401",
+    "data": [
+      {
+        "text": "School function update?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f820b3f3-53d1-49d5-9a4a-37ed91a185dd",
+    "data": [
+      {
+        "text": "Any event updates?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

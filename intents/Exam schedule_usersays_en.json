@@ -1,0 +1,158 @@
+[
+  {
+    "id": "1afc69db-1e60-4bf4-a486-3d38e0fa2ec2",
+    "data": [
+      {
+        "text": "When are the exams",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cdf57836-94ec-4f81-b8d8-54c50ccb67ed",
+    "data": [
+      {
+        "text": "Show the exam timetable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9684aeb-0e4e-4f75-8296-72136e82d20c",
+    "data": [
+      {
+        "text": "What is the exam schedule for Grade 8",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "604431db-da32-43b3-ada2-e92fdf68a0ec",
+    "data": [
+      {
+        "text": "When is the science exam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39ad58e1-1a5b-40f8-83bb-8178a9087836",
+    "data": [
+      {
+        "text": "I need the next exam date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6907eab-7ad0-4bf3-a114-5734f47e5039",
+    "data": [
+      {
+        "text": "Tell me the examination timetable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9c023f2-f975-4aa6-9169-3ff085dc6e3f",
+    "data": [
+      {
+        "text": "When do term exams start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74a2508f-9423-486e-8e71-5b4b7e3612ad",
+    "data": [
+      {
+        "text": "What is the math\u0027s exam date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c626410a-36df-43a5-a5f7-490ed7afaac4",
+    "data": [
+      {
+        "text": "Where can I find the exam schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af60619c-c5bb-4eff-b643-ae7fac836c53",
+    "data": [
+      {
+        "text": "Show the final exam timetable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "045382a6-daea-41e4-96c4-4d1da71bc149",
+    "data": [
+      {
+        "text": "When is the unit test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "edabb81a-8396-4bf9-8d9d-e9ba668d4273",
+    "data": [
+      {
+        "text": "I want the dates for upcoming exams",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

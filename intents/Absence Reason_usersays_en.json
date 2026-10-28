@@ -1,0 +1,158 @@
+[
+  {
+    "id": "44081355-da4c-49f1-b737-3e819318e5e0",
+    "data": [
+      {
+        "text": "My child was absent yesterday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cdf5daf-ae93-4276-863e-eb5d9f35c4ef",
+    "data": [
+      {
+        "text": "I need to explain my child\u0027s absence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be7dd11f-341f-43da-a8eb-9163bfab728a",
+    "data": [
+      {
+        "text": "How do I report an absence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01613d8a-1bb2-4363-a7df-2ed54e9866fd",
+    "data": [
+      {
+        "text": "My child was sick and missed school",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1b5c118-87a9-4744-987a-a0126022d637",
+    "data": [
+      {
+        "text": "Where should I submit an absence reason",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "460c7a23-4817-4894-b8f3-8e9116544489",
+    "data": [
+      {
+        "text": "I want to inform the school about an absence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db38dfc1-affb-4da4-b957-609102ed13c8",
+    "data": [
+      {
+        "text": "My child could not attend class",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac256751-7292-47fe-8d98-cc64e4ec4271",
+    "data": [
+      {
+        "text": "How can I give a reason for absence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90382247-d7fa-4544-b663-4919b2ef5f34",
+    "data": [
+      {
+        "text": "I need to report a medical absence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8caf366-dea1-47e7-8d3b-c56b51f8c071",
+    "data": [
+      {
+        "text": "My child missed school due to a family matter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11be41e9-2be7-4691-87e1-bb6539f4113f",
+    "data": [
+      {
+        "text": "Can I update the absence reason",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40aea90e-3313-4284-b84b-4966de638ae2",
+    "data": [
+      {
+        "text": "What should I do after my child is absent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
