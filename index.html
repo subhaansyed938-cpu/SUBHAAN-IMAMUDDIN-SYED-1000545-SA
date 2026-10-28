@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#f5f7fb">
+  <title>Parent Connect AI | School Support Assistant</title>
+  <meta name="description" content="Try Parent Connect AI, a virtual assistant for school-related questions and parent support.">
+  <style>
+    :root {
+      --ink: #17233b;
+      --muted: #62708a;
+      --blue: #315efb;
+      --line: #e4eaf4;
+      --surface: rgba(255,255,255,.88);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(ellipse at 12% 8%, rgba(91, 129, 255, .13), transparent 35%),
+        radial-gradient(ellipse at 92% 88%, rgba(89, 190, 190, .13), transparent 32%),
+        #f5f7fb;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .topbar {
+      width: 100%;
+      border-bottom: 1px solid rgba(228,234,244,.9);
+      background: rgba(255,255,255,.72);
+      backdrop-filter: blur(12px);
+    }
+
+    .nav {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 20px 28px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .logo {
+      width: 42px;
+      height: 42px;
+      display: grid;
+      place-items: center;
+      border-radius: 13px;
+      color: white;
+      background: linear-gradient(135deg, #315efb, #6e8aff);
+      box-shadow: 0 8px 20px rgba(49,94,251,.22);
+      flex: 0 0 auto;
+    }
+
+    .logo svg { width: 23px; height: 23px; }
+    .brand { font-weight: 750; letter-spacing: -.03em; font-size: 1.04rem; }
+    .brand small {
+      display: block;
+      margin-top: 3px;
+      color: var(--muted);
+      font-weight: 500;
+      font-size: .76rem;
+      letter-spacing: 0;
+    }
+
+    main {
+      width: 100%;
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: clamp(44px, 8vw, 92px) 28px 56px;
+      flex: 1;
+    }
+
+    .hero { max-width: 720px; margin: 0 auto; text-align: center; }
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      border: 1px solid #dfe7ff;
+      border-radius: 999px;
+      color: #3153c8;
+      background: #edf1ff;
+      font-size: .78rem;
+      font-weight: 700;
+      letter-spacing: .04em;
+      text-transform: uppercase;
+    }
+
+    .status-dot {
+      width: 7px;
+      height: 7px;
+      background: #25a875;
+      border-radius: 50%;
+      box-shadow: 0 0 0 3px rgba(37,168,117,.12);
+    }
+
+    h1 {
+      margin: 24px 0 16px;
+      font-size: clamp(2.35rem, 6vw, 4.35rem);
+      line-height: 1.05;
+      letter-spacing: -.065em;
+      font-weight: 780;
+    }
+
+    h1 span {
+      color: var(--blue);
+      background: linear-gradient(100deg, #315efb 15%, #6486ff 75%);
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .intro {
+      max-width: 590px;
+      margin: 0 auto;
+      color: var(--muted);
+      font-size: clamp(1rem, 2vw, 1.12rem);
+      line-height: 1.75;
+    }
+
+    .chat-card {
+      max-width: 690px;
+      margin: 38px auto 0;
+      padding: 24px;
+      text-align: left;
+      border: 1px solid rgba(224,231,243,.95);
+      border-radius: 22px;
+      background: var(--surface);
+      box-shadow: 0 22px 65px rgba(36, 56, 100, .08);
+    }
+
+    .card-heading { display: flex; align-items: center; gap: 13px; }
+    .assistant-icon {
+      display: grid;
+      place-items: center;
+      width: 48px;
+      height: 48px;
+      flex: 0 0 auto;
+      border-radius: 15px;
+      background: #edf1ff;
+      color: #315efb;
+    }
+    .assistant-icon svg { width: 25px; height: 25px; }
+    .card-heading h2 { margin: 0; font-size: 1rem; letter-spacing: -.02em; }
+    .card-heading p { margin: 5px 0 0; color: var(--muted); font-size: .88rem; }
+    .divider { height: 1px; background: var(--line); margin: 20px 0; }
+
+    .hint-title {
+      margin: 0 0 12px;
+      color: #3e4d67;
+      font-size: .8rem;
+      font-weight: 750;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+    }
+
+    .suggestions { display: flex; flex-wrap: wrap; gap: 9px; }
+    .suggestion {
+      padding: 10px 13px;
+      border: 1px solid #dfe6f2;
+      border-radius: 11px;
+      background: #fff;
+      color: #35445f;
+      font: inherit;
+      font-size: .87rem;
+      cursor: pointer;
+      transition: border-color .18s, background .18s, transform .18s;
+    }
+    .suggestion:hover {
+      border-color: #9db2ff;
+      background: #f7f8ff;
+      transform: translateY(-1px);
+    }
+
+    .note {
+      margin: 17px 0 0;
+      color: #7a879c;
+      font-size: .78rem;
+      line-height: 1.6;
+    }
+
+    footer {
+      padding: 22px 28px 28px;
+      color: #8490a4;
+      text-align: center;
+      font-size: .78rem;
+    }
+
+    /* Dialogflow Messenger's launcher and chat panel are supplied by Google's script. */
+    df-messenger {
+      z-index: 1000;
+      --df-messenger-bot-message: #f1f4fb;
+      --df-messenger-button-titlebar-color: #315efb;
+      --df-messenger-chat-background-color: #ffffff;
+      --df-messenger-font-color: #17233b;
+      --df-messenger-send-icon: #315efb;
+      --df-messenger-user-message: #e8edff;
+      --df-messenger-button-titlebar-font-color: #ffffff;
+      --df-messenger-chat-border-radius: 18px;
+    }
+
+    @media (max-width: 600px) {
+      .nav { padding: 16px 20px; }
+      main { padding: 52px 18px 40px; }
+      .chat-card { padding: 19px; margin-top: 30px; }
+      .suggestion { font-size: .82rem; }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="nav">
+      <div class="logo" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M3 10.5 12 3l9 7.5"></path>
+          <path d="M5.5 9.5V21h13V9.5"></path>
+          <path d="M9 21v-6h6v6"></path>
+          <path d="M9 10h.01M15 10h.01"></path>
+        </svg>
+      </div>
+      <div class="brand">
+        Parent Connect AI
+        <small>School support, made simpler</small>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" aria-labelledby="page-title">
+      <div class="eyebrow"><span class="status-dot"></span> Virtual school assistant</div>
+      <h1 id="page-title">A simpler way to stay <span>connected.</span></h1>
+      <p class="intro">
+        Have a question about school timings, attendance, leave applications, exams, or school updates?
+        Chat with Parent Connect AI for help finding the information you need.
+      </p>
+
+      <div class="chat-card">
+        <div class="card-heading">
+          <div class="assistant-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M20 11.5a7.5 7.5 0 0 1-7.5 7.5H6l-3 2v-6.5A7.5 7.5 0 1 1 20 11.5Z"></path>
+              <path d="M8 11h.01M12 11h.01M16 11h.01"></path>
+            </svg>
+          </div>
+          <div>
+            <h2>Meet your school assistant</h2>
+            <p>Open the chat bubble in the bottom-right corner to start.</p>
+          </div>
+        </div>
+
+        <div class="divider"></div>
+
+        <p class="hint-title">Try asking about</p>
+        <div class="suggestions" aria-label="Suggested questions">
+          <button class="suggestion" type="button" data-message="What are the school timings?">School timings</button>
+          <button class="suggestion" type="button" data-message="How can I check attendance?">Attendance</button>
+          <button class="suggestion" type="button" data-message="How do I apply for leave?">Leave application</button>
+          <button class="suggestion" type="button" data-message="Where can I find the exam schedule?">Exam schedule</button>
+          <button class="suggestion" type="button" data-message="Are there any updates about upcoming events?">School updates</button>
+        </div>
+        <p class="note">These are example prompts. Responses depend on the information and intents configured in the connected Dialogflow agent.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>Parent Connect AI · A school communication assistant</footer>
+
+  <!-- Google Dialogflow Messenger: connected to the supplied agent ID. -->
+  <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+  <df-messenger
+    chat-title="Parent_Connect_AI"
+    agent-id="d07da3c3-305b-4f23-9daf-dac3bbba7768"
+    language-code="en">
+  </df-messenger>
+
+  <script>
+    // Open the Google chat panel when a suggested prompt is clicked, then place
+    // the prompt in the input field where supported by the loaded Messenger UI.
+    // The user can review/edit and send it themselves.
+    document.querySelectorAll("[data-message]").forEach((button) => {
+      button.addEventListener("click", () => {
+        const messenger = document.querySelector("df-messenger");
+        if (messenger) {
+          messenger.shadowRoot?.querySelector("df-messenger-chat")?.shadowRoot
+            ?.querySelector("textarea")?.focus();
+        }
+        // Dialogflow Messenger does not expose a stable public API for sending
+        // a message programmatically, so the button gives a clear instruction
+        // without pretending a message was sent.
+        const existing = document.getElementById("prompt-notice");
+        if (existing) existing.remove();
+        const notice = document.createElement("p");
+        notice.id = "prompt-notice";
+        notice.className = "note";
+        notice.textContent = 'Suggested question: "' + button.dataset.message + '" — copy it into the chat to send.';
+        button.closest(".chat-card").appendChild(notice);
+      });
+    });
+  </script>
+</body>
+</html>
